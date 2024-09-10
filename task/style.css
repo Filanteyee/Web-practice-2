@@ -1,0 +1,36 @@
+body{
+ font-family: "Open Sans", sans-serif;
+ margin: 0px;
+}
+
+.container{
+	margin:0px 166px;
+	position: absolute;
+	left: 600px;
+}
+
+.about-football{
+	padding-bottom: 50px;
+	border:1px dotted;
+}
+
+
+.navv{
+	display:flex;
+	justify-content:space-between;
+	margin-top: 80px;
+}
+
+
+
+.image-1{
+	width:300px;
+	height: 250px;
+	border-style:solid;
+	border-width:10px;
+}
+
+.items{
+	display: flex;
+	justify-content: center;
+}
